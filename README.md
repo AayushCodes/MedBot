@@ -18,7 +18,7 @@ This data is then fed into Decision Tree and KNN (K-Nearest Neighbours) AI algor
 
 Finally, the type of doctor along with the best doctors in the users area are displayed to the user on the basis of their rating and amount of reviews online. The disease identified by the program is also sent to the selected doctor along with a list of the symptoms provided by the user and the 3 most probable diseases via email to help with the process of diagnosis.  
 
-A kiosk has also been constructed which can be installed in places where there is a lack of medical services and doctors are scarce. The kiosk consists of a LED touch screen and a mini pc (NUC) installed within the kiosk. 
+A kiosk prototype has also been constructed which can be installed in places where there is a lack of medical services and doctors are scarce. The kiosk consists of a LED touch screen and a mini pc (NUC) installed within the kiosk. 
 
 
 ### Findings: 
